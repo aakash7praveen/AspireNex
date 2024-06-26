@@ -21,6 +21,8 @@ The chatbot is developed based on basic if-else conditions and is very user frie
 
 The website is also functional (payment functionality not added)
 
+To access the website please select index2.html from the CHATBOT WITH RULE-BASED RESPONSES folder
+
 
 FACE DETECTION AND RECOGNITION
 
@@ -33,3 +35,6 @@ Twilio has also been used for the basic alert SMS system which sends and alert m
 Active Face Detection is done with the help of the built in landmarking models in dlib, openCV is used for processing and manipulating images while the imutils is used for resizing and enhancing the effeciency of the facial landmrk detection.
 
 This has beem implemented and verified by our advisors and judges, and is currently chosen as one of the candidates for the best projects in the current semester (results not out).
+
+The video of the functioning of the system will be provided.
+
