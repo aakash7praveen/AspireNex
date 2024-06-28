@@ -1,5 +1,5 @@
 # AspireNex
-Repository for AspireNex Internship on Artificial Intelliegence.
+Repository for AspireNex Internship on Artificial Intelligence.
 
 Hi guys!
 
